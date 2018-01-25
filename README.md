@@ -1,0 +1,2 @@
+# craspy
+scrapy scripts
