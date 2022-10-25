@@ -4,8 +4,6 @@ from __future__ import unicode_literals
 import youtube_dl
 from tkinter import *
 from tkinter import ttk
-import json
-import os
 
 class Aplicacion():
 	def __init__(self):
